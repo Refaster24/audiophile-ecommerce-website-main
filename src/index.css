@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Manrope', sans-serif;
+}
+
+#nav{
+    animation: nav 500ms ease-out;
+    -webkit-animation: nav 500ms ease-out;
+    opacity: .99;
+}
+
+@keyframes nav {
+    from{
+        translate:0 -80%;
+    }
+    to{
+        translate:0 0;
+    }
+}
+
+#arrow::after{
+    content: '';
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-left: 2px;
+    background-image: url('./assets/shared/desktop/icon-arrow-right.svg');
+    background-repeat: no-repeat;
+}
