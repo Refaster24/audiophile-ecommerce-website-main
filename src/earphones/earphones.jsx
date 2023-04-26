@@ -1,4 +1,4 @@
-import yx1 from '../assets/category-earphones/desktop/image-yx1-Earphones.jpg'
+import yx1 from '../assets/category-earphones/desktop/image-yx1-earphones.jpg'
 
 export default function Earphones(){
     return(
