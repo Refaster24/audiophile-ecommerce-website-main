@@ -8,7 +8,7 @@ import Footer from '../footer'
 
 import data from '../data'
 
-import yx1 from '../assets/category-earphones/desktop/image-yx1-Earphones.jpg'
+import yx1 from '../assets/category-earphones/desktop/image-yx1-earphones.jpg'
 
 import gallery1 from '../assets/product-yx1-earphones/desktop/image-gallery-1.jpg'
 import gallery2 from '../assets/product-yx1-earphones/desktop/image-gallery-2.jpg'
