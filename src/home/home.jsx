@@ -82,7 +82,7 @@ function Content(){
       Upgrade to premium speakers that are phenomenally built to deliver truly remarkable sound.
       </p>
       <a href="./speakers/zx9.html">
-      <button className= "text-white px-4 py-2 rounded-md bg-[#191919] hover:text-[#d87d4a] hover:bg-white">SEE PRODUCT</button>
+      <button className= "text-white px-4 py-2 mt-4 rounded-md bg-[#191919] hover:text-[#d87d4a] hover:bg-white">SEE PRODUCT</button>
       </a>
     </div>
   </div>

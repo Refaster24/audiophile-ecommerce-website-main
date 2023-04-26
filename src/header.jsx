@@ -71,7 +71,7 @@ export default function Header(currentFile){
 
   return (
 <>
-<header className="bg-[rgb(25,25,25)] pl-8 pr-16 py-8">
+<header className="bg-[rgb(25,25,25)] px-8 py-8">
 <div className='flex items-center justify-between pb-4 border-b border-gray-700'>
         
   <a href="#main" className="block bg-orange-500 text-xl text-white text-center w-[11em] p-5 outline-4 outline-dashed outline-red-600 outline-offset-2 absolute top-[10%] left-[-80%] focus-visible:!left-[5%] focus:!left-[5%]">
